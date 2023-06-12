@@ -1,0 +1,10 @@
+* fare-csv
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/fare-csv.git   |
+| commit  |   |
+| systems | fare-csv |
+|---------+-------------------------------------------|
+
