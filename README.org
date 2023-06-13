@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/frideau/fare-csv.git   |
-| commit  |   |
-| systems | fare-csv |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/fare-csv.git |
+| commit  | f877a23                                                 |
+| systems  | fare-csv                                                |
+|---------+---------------------------------------------------------|
