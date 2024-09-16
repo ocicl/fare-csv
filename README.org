@@ -4,6 +4,7 @@
 
 |---------+---------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/frideau/fare-csv.git |
-| commit  | f877a23                                                 |
-| systems  | fare-csv                                                |
+| commit  | 3ea856b                                                 |
+| systems | fare-csv                                                |
 |---------+---------------------------------------------------------|
+
